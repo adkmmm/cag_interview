@@ -9,7 +9,7 @@
 
    
 2. Run on Docker:
-
+   ```bash
    docker-compose build
    docker-compose up
 
@@ -19,8 +19,8 @@
 1. Postman
     Do a post request to the following links on Postman after docker has successfully running the file
 
-    http://127.0.0.1:5000/api/insert-update-inventory
-    http://127.0.0.1:5000/api/get-inventory-in-timeframe
+    http://127.0.0.1:5000/api/insert-update-inventory<br>
+    http://127.0.0.1:5000/api/get-inventory-in-timeframe<br>
     http://127.0.0.1:5000/api/aggregate-inventory
 
 
